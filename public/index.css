@@ -1,0 +1,400 @@
+.m1 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    position: fixed;
+    z-index: 10;
+}
+
+.sec-1 {
+    width: 100%;
+    height: auto;
+    background-color: #37517e;
+}
+
+.background-1 {
+    width: 100%;
+    height: auto;
+    background-color: #37517e;
+}
+
+.m2 {
+    padding: 80px 10px;
+}
+
+.text-1 {
+    font-size: 60px;
+    color: white;
+    font-weight: 600;
+}
+
+.text-2 {
+    font-size: 30px;
+    color: white;
+}
+
+.background-2 {
+    width: 100%;
+    height: auto;
+    background-color: rgb(219, 214, 214);
+}
+
+.text-3 {
+    text-align: center;
+    text-decoration: underline;
+    color: #37517e;
+    font-weight: 600;
+}
+
+.background-3 {
+    padding: 100px 10px;
+}
+
+.text-4 {
+    font-size: 20px;
+}
+
+.button-1 {
+    width: 150px;
+    height: 50px;
+}
+
+.background-4 {
+    width: 100%;
+    height: auto;
+    background-color: #f3f5fa;
+    padding: 100px 10px;
+}
+
+.text-5 {
+    font-size: 30px;
+    color: #37517e;
+    font-weight: 700;
+}
+
+.text-6 {
+    color: gray;
+}
+
+.background-5 {
+    padding: 100px 10px;
+}
+
+.text-7 {
+    font-size: 40px;
+    color: #37517e;
+    font-weight: 600;
+}
+
+.text-8 {
+    font-size: 20px;
+}
+
+.background-6 {
+    width: 100%;
+    height: auto;
+    background-color: #f3f5fa;
+    padding: 50px 10px;
+}
+
+.text-9 {
+    font-size: 40px;
+    color: #37517e;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+}
+.text-10{
+    font-size: 20px;
+    text-align: center;
+}
+
+.m10 {
+    font-size: 30px;
+    color: #37517e;
+}
+
+.m11 {
+    font-size: 20px;
+    color: #37517e;
+}
+
+.box-1 {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    margin: 10px;
+}
+
+.m12 {
+    font-size: 30px;
+    color: skyblue;
+}
+
+.m13 {
+    font-size: 30px;
+    color: #37517e;
+    text-align: start;
+}
+
+.m14 {
+    max-width: 200px;
+}
+
+.background-7 {
+    width: 100%;
+    height: auto;
+    background: url(Assets/cta-bg.jpg)50% 50% no-repeat;
+    background-size: cover;
+    padding: 100px 10px;
+}
+
+.text-11 {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+.text-12 {
+    font-size: 20px;
+    color: white;
+}
+
+.button-1 {
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+}
+
+.button-1:hover {
+    background-color: #37517e;
+    border: none;
+}
+
+.background-9 {
+    width: 100%;
+    height: auto;
+    background-color: #f3f5fa;
+    padding: 100px 10px;
+}
+
+.text-13 {
+    font-size: 40px;
+    color: #37517e;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.text-14 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.box-2 {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.background-10 {
+    width: 100%;
+    height: auto;
+    padding: 80px 10px;
+}
+
+.text-15 {
+    font-size: 40px;
+    color: #37517e;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.text-16 {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.box-2 {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px;
+    margin: auto;
+    border-top: 2px solid blue;
+}
+
+.text-17 {
+    font-size: 20px;
+    color: #37517e;
+}
+
+.text-18 {
+    font-size: 30px;
+    color: #37517e;
+}
+
+.text-19 {
+    font-size: 20px;
+    color: skyblue;
+}
+
+.button-2 {
+    width: 150px;
+    height: 50px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 10px;
+}
+
+.button-2:hover {
+    background-color: #37517e;
+    color: white;
+}
+
+.background-11 {
+    width: 100%;
+    height: auto;
+    background-color: #f3f5fa;
+    padding: 50px 10px;
+}
+
+.text-20 {
+    font-size: 40px;
+    color: #37517e;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.text-21 {
+    text-align: center;
+}
+
+.background-12 {
+    width: 100%;
+    height: auto;
+}
+
+.text-22 {
+    font-size: 40px;
+    color: #37517e;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box-3 {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+
+.text-23 {
+    font-size: 40px;
+    color: skyblue;
+}
+
+.text-24 {
+    font-size: 30px;
+}
+
+.box-4 {
+    max-width: 100%;
+    height: auto;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+
+.background-13 {
+    width: 100%;
+    height: auto;
+    background-color: #f3f5fa;
+}
+
+.text-25 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.text-26 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.button-3 {
+    width: 150px;
+    height: 50px;
+    background-color: #37517e;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.button-3:hover {
+    background-color: #f3f5fa;
+    color: #37517e;
+    border: 2px solid #37517e;
+}
+
+.text-27 {
+    font-size: 30px;
+    color: #37517e;
+}
+.m30{
+    font-size: 20px;
+}
+.m30:hover{
+    color: #37517e;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .text-1 {
+        font-size: 40px;
+        color: white;
+        font-weight: 600;
+    }
+
+    .text-2 {
+        font-size: 20px;
+        color: white;
+    }
+
+    .text-7 {
+        font-size: 30px;
+        color: #37517e;
+        font-weight: 600;
+    }
+
+    .box-2 {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 3px 3px 5px;
+        margin-top: 20px;
+    }
+
+    .image {
+        margin: auto;
+    }
+
+    .box-4 {
+        max-width: 100%;
+        height: auto;
+        background-color: white;
+        box-shadow: 2px 2px 5px;
+        margin: auto;
+    }
+
+    .text-10 {
+        text-align: center;
+    }
+}
